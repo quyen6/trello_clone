@@ -1,0 +1,3 @@
+[submodule "trello-web/trello-web"]
+	path = trello-web/trello-web
+	url = https://github.com/quyen6/trello-web.git
