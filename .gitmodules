@@ -1,6 +1,8 @@
 [submodule "trello-web"]
 	path = trello-web
 	url = https://github.com/quyen6/trello-web.git
+	branch = master 
 [submodule "trello-api"]
 	path = trello-api
 	url = https://github.com/quyen6/trello-api.git
+	branch = master
