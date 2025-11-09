@@ -80,7 +80,7 @@ _(for testing realtime notification, update & move column, card)_
    ```
 3. Set up environment variables
 Create a .env file in the root of the backend folder and add:
-```bash
+  ```bash
 MONGODB_URI=
 DATABASE_NAME=
 LOCAL_DEV_APP_HOST=
@@ -118,12 +118,12 @@ GITHUB_CLIENTSECRET_DEV=
 GITHUB_CLIENTID_PROD = 
 GITHUB_CLIENTSECRET_PROD=
 
-```
+  ```
 4. Run the backend server
-```bash
+  ```bash
   npm run dev
 Or: yarn dev
-```
+  ```
 Backend server will run at: http://localhost:8017
 
 ### **2. Frontend Setup**
@@ -140,7 +140,7 @@ Backend server will run at: http://localhost:8017
    ```
 3.  Start the frontend:
     ```bash
-       npm run dev
+    npm run dev
     Or: yarn dev
     ```
     Frontend will run at `http://localhost:5317`.
